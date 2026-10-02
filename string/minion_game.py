@@ -1,4 +1,4 @@
-"Kevin and Stuart want to play the 'The Minion Game'.
+"""Kevin and Stuart want to play the 'The Minion Game'.
 
 Game Rules
 
@@ -28,7 +28,7 @@ string: the winner's name and score, separated by a space on one line, or Draw i
 Input Format
 
 A single line of input containing the string .
-Note: The string  will contain only uppercase letters: ."
+Note: The string  will contain only uppercase letters: ."""
 
 def minion_game(string):
     vow="AEIOU"
