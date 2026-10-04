@@ -19,3 +19,4 @@ n = int(input())
         elif x>second_largest:
             second_largest=x
     print(second_largest)
+
