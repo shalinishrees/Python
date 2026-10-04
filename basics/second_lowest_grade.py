@@ -42,6 +42,7 @@ for name in result:
     print(name)
 
 
+
   #with built-in function 
   n = int(input())
 students = []
